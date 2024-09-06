@@ -1,0 +1,25 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "create",
+		"createbigcannons"
+      ]
+    }
+  ],
+  "type": "createbigcannons:melting",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "c:crushed_raw_copper"
+    }
+  ],
+  "processingTime": 180,
+  "results": [
+    {
+      "amount": 18000,
+      "fluid": "createmetalwork:molten_copper"
+    }
+  ]
+}

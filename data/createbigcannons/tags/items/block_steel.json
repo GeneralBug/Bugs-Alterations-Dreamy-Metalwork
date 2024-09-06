@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values": 
+	[
+		{
+			"id": "create_dd:steel_block",
+			"required": false
+		}
+	]
+}

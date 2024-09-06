@@ -1,0 +1,29 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "create",
+        "createbigcannons"
+      ]
+    }
+  ],
+  "type":"create:mixing",
+  "heatRequirement":"superheated",
+  "ingredients":[
+    {
+      "tag":"c:meltable_netherite_scrap"
+	},
+    {
+      "tag":"c:meltable_netherite_scrap"
+    },
+    {
+      "amount":18000, "fluidTag":"c:molten_steel"
+    }
+  ],
+  "results":[
+    {
+      "amount":81000, "fluid":"createbigcannons:molten_nethersteel"
+    }
+  ]
+}

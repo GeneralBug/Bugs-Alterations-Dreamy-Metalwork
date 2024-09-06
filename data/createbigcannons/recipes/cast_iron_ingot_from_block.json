@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "cast_iron_ingot",
+  "ingredients": [
+    {
+      "tag": "c:cast_iron_blocks"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "createbigcannons:cast_iron_ingot"
+  }
+}

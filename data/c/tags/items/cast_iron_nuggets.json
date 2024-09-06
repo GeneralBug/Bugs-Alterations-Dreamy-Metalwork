@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values": 
+	[
+		{
+			"id": "create_dd:industrial_iron_nugget",
+			"required": false
+		}
+	]
+}
