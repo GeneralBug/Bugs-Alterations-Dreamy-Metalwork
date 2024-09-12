@@ -5,4 +5,4 @@ A datapack that makes some changes to the Fabric versions of [Create: Dreams & D
  - Cast iron and industrial iron are treated as interchangeable
  - Added spout recipes for gold foods
 
-[Modrinth page]()
+[Modrinth page](https://modrinth.com/project/ba-dreamy-metalwork)
