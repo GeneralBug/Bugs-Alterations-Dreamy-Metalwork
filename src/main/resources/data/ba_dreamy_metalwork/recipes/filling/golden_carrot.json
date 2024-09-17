@@ -1,0 +1,19 @@
+{
+    "type": "create:filling",
+    "ingredients": 
+	[
+		{
+			"item": "minecraft:carrot"
+		},
+		{
+			"fluidTag": "c:molten_gold",
+			"amount": 8000
+		}
+    ],
+    "results": 
+	[
+      {
+        "item": "minecraft:golden_carrot"
+      }
+    ]
+}

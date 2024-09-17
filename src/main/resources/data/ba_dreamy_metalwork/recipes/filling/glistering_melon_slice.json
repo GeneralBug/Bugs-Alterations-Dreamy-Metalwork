@@ -1,0 +1,19 @@
+{
+    "type": "create:filling",
+    "ingredients": 
+	[
+		{
+			"item": "minecraft:melon_slice"
+		},
+		{
+			"fluidTag": "c:molten_gold",
+			"amount": 8000
+		}
+    ],
+    "results": 
+	[
+		{
+			"item": "minecraft:glistering_melon_slice"
+		}
+    ]
+}

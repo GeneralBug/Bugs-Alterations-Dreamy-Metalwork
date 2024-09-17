@@ -1,0 +1,39 @@
+{
+	"fabric:load_conditions": 
+	[
+		{
+			"condition": "fabric:all_mods_loaded",
+			"values": 
+			[
+				"molten-metals"
+			]
+		}
+	],
+	"type":"create:mixing",
+	"heatRequirement":"superheated",
+	"ingredients":
+	[
+		{
+			"amount":36000,
+			"fluidTag":"c:molten_gold"
+		},
+		{
+			"tag":"c:meltable_netherite_scrap"
+		},
+		{
+			"tag":"c:meltable_netherite_scrap"
+		},
+		{
+			"tag":"c:meltable_netherite_scrap"
+		},
+		{
+			"tag":"c:meltable_netherite_scrap"
+		}
+	],
+	"results":
+	[
+		{
+			"amount":9000, "fluid":"molten-metals:molten_netherite"
+		}
+	]
+}

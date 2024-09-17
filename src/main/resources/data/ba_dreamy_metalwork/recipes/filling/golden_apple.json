@@ -1,0 +1,19 @@
+{
+    "type": "create:filling",
+    "ingredients": 
+	[
+		{
+			"item": "minecraft:apple"
+		},
+		{
+			"fluidTag": "c:molten_gold",
+			"amount": 72000
+		}
+    ],
+    "results": 
+	[
+		{
+			"item": "minecraft:golden_apple"
+		}
+    ]
+}
