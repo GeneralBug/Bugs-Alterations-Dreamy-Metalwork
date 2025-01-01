@@ -1,0 +1,27 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": 
+      [
+        "create",
+        "createbigcannons",
+        "oreganized"
+      ]
+    }
+  ],
+  "type": "createbigcannons:melting",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "tag": "c:crushed_raw_lead"
+    }
+  ],
+  "processingTime": 180,
+  "results": [
+    {
+      "amount": 18000,
+      "fluid": "oreganized:molten_lead"
+    }
+  ]
+}
